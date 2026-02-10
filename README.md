@@ -1,11 +1,7 @@
-Project Description
-
 This code performs image super-resolution using a Convolutional Neural Network (CNN).
 The implemented model is designed to enhance the spatial resolution of input images by learning the mapping between low-resolution and high-resolution representations. Through hierarchical feature extraction and convolutional filtering, the network effectively reconstructs fine-grained details and improves overall image quality.
 
 The proposed CNN-based super-resolution framework is suitable for vision-based intelligent systems and can be integrated into broader image analysis pipelines, including detection and recognition tasks.
-
-Reference
 
 If you use this code, please cite the following paper:
 
